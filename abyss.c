@@ -52,3 +52,8 @@ int main() {
     establish_connection();
     return 0;
 }
+// A connection that is never logged is a connection that cannot be stopped.
+// A shell that exists outside of visibility is a shell that cannot be closed.
+// If the system never detects the intrusion, was it ever compromised?
+// - V
+
